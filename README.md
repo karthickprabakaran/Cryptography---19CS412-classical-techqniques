@@ -509,9 +509,7 @@ if(code[i][j]!=0) printf("%c",code[i][j]);
 printf("\n");
 }
 ## OUTPUT:
-OUTPUT:
-Enter a Secret Message wearediscovered
-Enter number of rails 2
-waeicvrderdsoee
+![pic5](https://github.com/user-attachments/assets/f27c75db-6fa7-4492-acca-aa6d48f5a390)
+
 ## RESULT:
 The program is executed successfully
