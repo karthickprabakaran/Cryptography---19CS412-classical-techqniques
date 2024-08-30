@@ -356,8 +356,8 @@ printf("Decoded message : %s\n", dec); return 0;
 
 
 ## OUTPUT:
-OUTPUT:
-Simulating Hill Cipher
+![pic](https://github.com/user-attachments/assets/06e1721e-373b-4ad7-a511-5bd17ebd7fe7)
+
 
 
 Input Message : SecurityLaboratory
